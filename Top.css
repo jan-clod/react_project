@@ -1,0 +1,14 @@
+.Top-Header-site-header {
+    font-family: 'Oswald', sans-serif;  
+    /* border: 1px solid rgb(61, 61, 61); */
+    border: thick double #32a1ce;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 50% 20% / 10% 40%;
+
+}
+
+.Top-Header-site-header {
+    grid-area: h;
+    background-color: #2d434d;
+}
